@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omar
 - 👀 I’m interested in blockchain development and building ML algorithms
-- 🌱 I’m currently learning how to build smart contracts on blockchain
+- 🌱 I’m currently learning how to build smart contracts on blockchain (Solana, Polkadot, Polygon, Ethereum, BNB)
 - 💞️ I’m looking to collaborate on more open source Polkadot projects
 - 📫 How to reach me :- omarh8@vt.edu
 
